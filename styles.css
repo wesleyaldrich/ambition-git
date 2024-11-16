@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(42, 42, 42);
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10vh 10vw;
+}
+
+span {
+    color: orange;
+}
+
+p {
+    font-size: 1.4rem;
+    text-align: justify;
+}
